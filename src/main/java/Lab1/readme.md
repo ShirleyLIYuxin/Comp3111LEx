@@ -7,4 +7,4 @@ This is my 1st lab in Comp3111 - Software Engineering.
 
 Here's the screenshot of my 1st lab project in IntelliJ:
 
-![img.png](img.png)
+![img.png](src/img.png)
